@@ -20,9 +20,9 @@
 
 <div align="center">
 
-![Home Screen](assets/Screenshot1.png)
+![Home Screen](assets/Screenshot2.png)
 
-![Prediction Screen](assets/Screenshot2.png)
+![Prediction Screen](assets/Screenshot1.png)
 
 </div>
 
