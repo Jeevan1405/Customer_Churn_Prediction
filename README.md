@@ -1,6 +1,3 @@
-Here is your **final, polished README.md** in **pure Markdown format**, with **Jupyter Notebook added** in badges and tech stack, and structured for **GitHub + college submission**. You can copy this directly into your `README.md`.
-
----
 
 ````markdown
 # 📡 Telecom Customer Churn Prediction
