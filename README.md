@@ -1,4 +1,4 @@
-# \t📡 Telecom Customer Churn Prediction
+<h1 align="center">📡 Telecom Customer Churn Prediction</h1>
 
 <div align="center">
   
