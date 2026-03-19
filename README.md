@@ -1,6 +1,6 @@
+#       📡 Telecom Customer Churn Prediction
 
 <div align="center">
-# 📡 Telecom Customer Churn Prediction
   
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
