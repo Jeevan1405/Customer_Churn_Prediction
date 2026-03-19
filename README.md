@@ -1,7 +1,7 @@
-# 📡 Telecom Customer Churn Prediction
 
 <div align="center">
-
+# 📡 Telecom Customer Churn Prediction
+  
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -142,7 +142,7 @@ These notebooks demonstrate the complete machine learning pipeline from raw data
 ```bash
 git clone <your-repository-url>
 cd Customer-Churn-Prediction
-
+```
 ---
 
 ### 2. Install Dependencies
