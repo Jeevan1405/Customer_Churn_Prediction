@@ -1,5 +1,3 @@
-
-````markdown
 # 📡 Telecom Customer Churn Prediction
 
 <div align="center">
@@ -144,7 +142,6 @@ These notebooks demonstrate the complete machine learning pipeline from raw data
 ```bash
 git clone <your-repository-url>
 cd Customer-Churn-Prediction
-````
 
 ---
 
